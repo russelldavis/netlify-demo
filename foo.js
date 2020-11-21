@@ -1,6 +1,6 @@
 // testtttttttttttt
 (function() {
-  var abcdefg = "hello world."
+  var abcdefg = "hello world..."
   function testtt() {
     console.log(abcdefg);
   }
